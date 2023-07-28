@@ -3,10 +3,10 @@
 ## Hi there 👋
 
 ---
-
-  I am Emiliano. Passionate and self-taught in the realm of software, with a deep love for learning, problem-solving, and unleashing creative designs.
-Currently working to improve my skills in Web Dev. 
-  Speak english, spanish and a little bit of norwegian and italian.
+  
+ &ensp;&ensp; I am Emiliano. Passionate and self-taught in the realm of software, with a deep love for learning, problem-solving, and unleashing creative designs.
+Currently working to improve my skills in Web Dev.  
+ &ensp;&ensp; Speak english, spanish and a little bit of norwegian and italian.
 
 ---
 
