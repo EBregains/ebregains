@@ -11,7 +11,6 @@ Currently working to improve my skills in Web Dev.
 ---
 
 - 🔭 I’m currently working on my portfolio website that you can check [here](https://ebregains.vercel.app/about).
-- 🌱 I’m currently learning Web Development with Svelte / Angular.
 - 👯 I’m looking to collaborate on a team of developers to grow toghether.
 - 📫 Reach me on my web page or send me an email [ebregains@gmail.com](mailto:ebregains@gmail.com).
 - ✈️ Dreaming about to visit Norway.
