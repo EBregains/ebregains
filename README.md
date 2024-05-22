@@ -8,7 +8,7 @@ While I am currently working as an HMI developer and designer, I like to use my 
 
 ---
 
-- 🔭 My webdev portfolio, [check it here](emilianobregains.xyz).
+- 🔭 My webdev portfolio, [check it here](https://www.emilianobregains.xyz).
 - 👯 I’m looking to collaborate on a team of developers.
 - 📫 One can reach me on my web page or send me an email [ebregains@gmail.com](mailto:ebregains@gmail.com).
 - ✈️ Dreaming about to visit Norway.
